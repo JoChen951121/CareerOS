@@ -4,16 +4,31 @@ An agentic career intelligence platform for job discovery, skill development, an
 Begin date:11/09/2026
 
 ## Main Structure
+```text
 CareerOS/
-    ├── README.md
-    ├── docs/
-        ├── architecture.md
-        └── devlog.md
-    ├── src/
-        ├── job_intelligence/
-        ├── candidate_profile/
-        ├── skill_gap/
-        ├── interview/
-        └── evaluation/
-    ├── tests/ 
-    └── data/
+
+├── README.md
+
+├── docs/
+
+│   ├── architecture.md
+
+│   └── devlog.md
+
+├── src/
+
+│   ├── job_intelligence/
+
+│   ├── candidate_profile/
+
+│   ├── skill_gap/
+
+│   ├── interview/
+
+│   └── evaluation/
+
+├── tests/
+
+└── data/
+
+```
